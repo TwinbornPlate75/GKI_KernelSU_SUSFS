@@ -41,6 +41,7 @@ on:
           - KSUN+NET
           - KSUN+DS
           - KSUN
+          - DS+NET
           - NONE
           - FULL
         default: FULL
